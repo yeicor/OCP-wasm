@@ -1,0 +1,90 @@
+{
+  "info": {
+    "author": "Bernhard Walter",
+    "author_email": null,
+    "bugtrack_url": null,
+    "classifiers": [],
+    "description": "# cadquery-ocp (also known as OCP)\n\nPython wrapper for OCCT generated using pywrap. Typing [stubs](https://pypi.org/project/cadquery-ocp-stubs/) available from pypi.\n\n## Goals of OCP\n* Provide thin bindings to OCCT.\n* Wrap all OCCT modules (if practical).\n* React quickly to new OCCT releases.\n* Cater primarily for the CadQuery project.\n\n## Non-goals\n* Provide additional functionality not present in OCCT\n",
+    "description_content_type": "text/markdown",
+    "docs_url": null,
+    "download_url": null,
+    "downloads": {
+      "last_day": -1,
+      "last_month": -1,
+      "last_week": -1
+    },
+    "dynamic": null,
+    "home_page": null,
+    "keywords": null,
+    "license": null,
+    "license_expression": null,
+    "license_files": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "name": "cadquery-ocp",
+    "package_url": "https://pypi.org/project/cadquery-ocp/",
+    "platform": null,
+    "project_url": "https://pypi.org/project/cadquery-ocp/",
+    "project_urls": null,
+    "provides_extra": null,
+    "release_url": "https://pypi.org/project/cadquery-ocp/7.8.1.1.post1/",
+    "requires_dist": [
+      "vtk==9.3.1"
+    ],
+    "requires_python": "<3.14,>=3.10",
+    "summary": "Python wrapper for Open CASCADE Technology 3D geometry library based on the official CadQuery/OCP sources",
+    "version": "7.8.1.1.post1",
+    "yanked": false,
+    "yanked_reason": null
+  },
+  "last_serial": 27186989,
+  "releases": {
+    "7.8.1.2": [
+      {
+        "comment_text": "",
+        "digests": {
+          "blake2b_256": "6fe76e785803853db4fdaaf7837deac621e868fea45e747e840257eba5b3c8b3",
+          "md5": "6b31c5dae69675e84d53c071a31b1647",
+          "sha256": "d4e1b7a05b7a0f537a0322a95af0da4c8ee6706378a3d09a894994093586c6c6"
+        },
+        "downloads": -1,
+        "filename": "cadquery_ocp-7.8.1.2-cp313-cp313-pyodide_2025_0_wasm32.whl",
+        "has_sig": false,
+        "md5_digest": "6b31c5dae69675e84d53c071a31b1647",
+        "packagetype": "bdist_wheel",
+        "python_version": "cp313",
+        "requires_python": ">=3.10",
+        "size": 23650396,
+        "upload_time": "2025-06-19T17:59:32+00:00",
+        "upload_time_iso_8601": "2025-06-19T17:59:32.645257+00:00Z",
+        "url": "https://yeicor.github.io/OCP.wasm/packages/cadquery_ocp-7.8.1.2-cp313-cp313-pyodide_2025_0_wasm32.whl",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ]
+  },
+  "urls": [
+    {
+      "comment_text": "",
+      "digests": {
+        "blake2b_256": "6fe76e785803853db4fdaaf7837deac621e868fea45e747e840257eba5b3c8b3",
+        "md5": "6b31c5dae69675e84d53c071a31b1647",
+        "sha256": "d4e1b7a05b7a0f537a0322a95af0da4c8ee6706378a3d09a894994093586c6c6"
+      },
+      "downloads": -1,
+      "filename": "cadquery_ocp-7.8.1.2-cp313-cp313-pyodide_2025_0_wasm32.whl",
+      "has_sig": false,
+      "md5_digest": "6b31c5dae69675e84d53c071a31b1647",
+      "packagetype": "bdist_wheel",
+      "python_version": "cp313",
+      "requires_python": ">=3.10",
+      "size": 23650396,
+      "upload_time": "2025-06-19T17:59:32+00:00",
+      "upload_time_iso_8601": "2025-06-19T17:59:32.645257+00:00Z",
+      "url": "https://yeicor.github.io/OCP.wasm/packages/cadquery_ocp-7.8.1.2-cp313-cp313-pyodide_2025_0_wasm32.whl",
+      "yanked": false,
+      "yanked_reason": null
+    }
+  ],
+  "vulnerabilities": []
+}
